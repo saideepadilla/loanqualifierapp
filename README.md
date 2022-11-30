@@ -1,2 +1,0 @@
-# loanqualifierapp
-Module 2 
